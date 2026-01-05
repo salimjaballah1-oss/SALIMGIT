@@ -1,0 +1,19 @@
+
+body{
+    background-image: url('pingouin.png'), url('feuilles.png');
+
+    background-repeat: no-repeat, repeat;
+    background-position: center center;
+    background-attachment: fixed, scroll;
+
+
+}
+h1{
+    color: purple;
+}
+#paragraphe{
+ font-style: italic;
+}
+p{
+    font-size: 30px;
+}
